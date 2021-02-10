@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\3DHorrorPuzzle\\PuzzleHorror\\Source\\PuzzleHorror\\PuzzleHorror.Build.cs",
+		"D:\\Unreal Projects\\3DHorrorPuzzle\\PuzzleHorror\\Source\\PuzzleHorror.Target.cs",
+		"D:\\Unreal Projects\\3DHorrorPuzzle\\PuzzleHorror\\Source\\PuzzleHorrorEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

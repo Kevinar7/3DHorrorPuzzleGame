@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PuzzleHorror",
+			"Path": "D:\\Unreal Projects\\3DHorrorPuzzle\\PuzzleHorror\\Source\\PuzzleHorror.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PuzzleHorrorEditor",
+			"Path": "D:\\Unreal Projects\\3DHorrorPuzzle\\PuzzleHorror\\Source\\PuzzleHorrorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
