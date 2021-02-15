@@ -1,3 +1,3 @@
-C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Development\PuzzleHorror\Definitions.PuzzleHorror.h
-C:\Main\Software\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Main\Software\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal Projects\Horror\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Development\PuzzleHorror\Definitions.PuzzleHorror.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

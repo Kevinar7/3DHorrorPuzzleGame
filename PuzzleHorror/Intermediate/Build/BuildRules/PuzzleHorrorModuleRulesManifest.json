@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Main\\School\\Noorderpoort jaar 2\\Game Jam\\3DHorrorPuzzleGame\\PuzzleHorror\\Source\\PuzzleHorror\\PuzzleHorror.Build.cs",
-		"C:\\Main\\School\\Noorderpoort jaar 2\\Game Jam\\3DHorrorPuzzleGame\\PuzzleHorror\\Source\\PuzzleHorror.Target.cs",
-		"C:\\Main\\School\\Noorderpoort jaar 2\\Game Jam\\3DHorrorPuzzleGame\\PuzzleHorror\\Source\\PuzzleHorrorEditor.Target.cs"
+		"D:\\Unreal Projects\\Horror\\PuzzleHorror\\Source\\PuzzleHorror\\PuzzleHorror.Build.cs",
+		"D:\\Unreal Projects\\Horror\\PuzzleHorror\\Source\\PuzzleHorror.Target.cs",
+		"D:\\Unreal Projects\\Horror\\PuzzleHorror\\Source\\PuzzleHorrorEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.1"
 }

@@ -1,2 +1,2 @@
-C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Development\PuzzleHorror\Definitions.PuzzleHorror.h
-C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Source\PuzzleHorror\PuzzleHorror.h
+D:\Unreal Projects\Horror\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Development\PuzzleHorror\Definitions.PuzzleHorror.h
+D:\Unreal Projects\Horror\PuzzleHorror\Source\PuzzleHorror\PuzzleHorror.h

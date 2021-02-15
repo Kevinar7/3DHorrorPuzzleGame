@@ -1,10 +1,10 @@
-C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Development\PuzzleHorror\Definitions.PuzzleHorror.h
-C:\Main\Software\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Main\Software\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Source\PuzzleHorror/PuzzleHorrorHUD.h
-C:\Main\Software\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-C:\Main\Software\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-C:\Main\Software\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-C:\Main\Software\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-C:\Main\Software\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Inc\PuzzleHorror\PuzzleHorrorHUD.generated.h
+D:\Unreal Projects\Horror\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Development\PuzzleHorror\Definitions.PuzzleHorror.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal Projects\Horror\PuzzleHorror\Source\PuzzleHorror/PuzzleHorrorHUD.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\Unreal Projects\Horror\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Inc\PuzzleHorror\PuzzleHorrorHUD.generated.h

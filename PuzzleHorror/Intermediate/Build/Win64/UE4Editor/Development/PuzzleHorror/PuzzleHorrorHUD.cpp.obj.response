@@ -31,8 +31,8 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Inc\PuzzleHorror"
-/I "C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Source"
+/I "D:\Unreal Projects\Horror\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Inc\PuzzleHorror"
+/I "D:\Unreal Projects\Horror\PuzzleHorror\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -265,12 +265,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Intermediate\Build\Win64\PuzzleHorrorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Intermediate\Build\Win64\PuzzleHorrorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Intermediate\Build\Win64\PuzzleHorrorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Source\PuzzleHorror\PuzzleHorrorHUD.cpp"
-/FI"C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Development\PuzzleHorror\Definitions.PuzzleHorror.h"
-/Fo"C:\Main\School\Noorderpoort jaar 2\Game Jam\3DHorrorPuzzleGame\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Development\PuzzleHorror\PuzzleHorrorHUD.cpp.obj"
+/FI"D:\Unreal Projects\Horror\PuzzleHorror\Intermediate\Build\Win64\PuzzleHorrorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Unreal Projects\Horror\PuzzleHorror\Intermediate\Build\Win64\PuzzleHorrorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Unreal Projects\Horror\PuzzleHorror\Intermediate\Build\Win64\PuzzleHorrorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Unreal Projects\Horror\PuzzleHorror\Source\PuzzleHorror\PuzzleHorrorHUD.cpp"
+/FI"D:\Unreal Projects\Horror\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Development\PuzzleHorror\Definitions.PuzzleHorror.h"
+/Fo"D:\Unreal Projects\Horror\PuzzleHorror\Intermediate\Build\Win64\UE4Editor\Development\PuzzleHorror\PuzzleHorrorHUD.cpp.obj"
 /TP
 /GR-
 /W4
